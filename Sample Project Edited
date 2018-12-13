@@ -17,10 +17,10 @@ def repzerowith(axes, newvalue):
     
 def average(axes):
     df1 = pd.DataFrame({'X': axes})
-    axes == 0.0
-    if index[0] # index[] == 0
+    axes == 0.0 # for
+    if index[0] # index[] == 0 # index[] == index[0]
     average(axes) == df1.axes[1]
-    if index[-1] # index[] == -1
+    if index[-1] # index[] == -1 # index[] == index[-1]
     average(axes) == df1.axes[-2]
     elif
     average(index) == (df1.axes[index-1] + df1.axes[index+1]) / 2
